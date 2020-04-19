@@ -1,0 +1,6 @@
+Log.txt
+*.sdf
+*.sln
+*.vcxproj*
+Debug
+ipch
